@@ -1,1 +1,3 @@
 Usuario=vagrant
+/proc/cpuinfo:13:cpu cores	: 2
+cpu cores	: 2
