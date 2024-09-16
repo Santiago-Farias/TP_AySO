@@ -1,0 +1,162 @@
+ls
+cat README 
+git clone https://github.com/Santiago-Farias/farias_vagrant.git
+ls
+cat README 
+cd farias_vagrant/
+ls
+cat README.md 
+ls
+history
+history > historial.txt
+ls
+cat historial.txt 
+ls
+git status
+git add .
+git status
+git commit -m "Historial de comandos."
+git config --global user.email "santifa8@gmail.com"
+git config --global user.name "Santiago-Farias"
+git commit -m "Historial de comandos."
+git push
+exit
+ls
+whoami
+ls
+pwd
+man man
+man pwd
+ls -l
+ls -a
+man man
+echo
+echo "falopa"
+echo falopa
+ls
+cat README 
+asd
+clear
+ls
+ls -la
+ssh-keygen -t ed25519
+ls
+ls -la
+cd .ssh/
+ls
+cat id_ed25519.pub 
+cd ..
+ls
+cd repogit/
+ls
+cd
+ls
+cd farias_vagrant/
+ls
+cd
+ls
+cd repo
+cd repogit/
+ls
+git clone git@github.com:Santiago-Farias/farias_vagrant.git
+ls
+cd farias_vagrant/
+ls
+clear
+ls
+exit
+cat /etc/shadow
+sudo cat /etc/shadow
+whoami
+exit
+ls
+cd repogit/
+ls
+cd farias_vagrant/
+ls
+clear
+ls
+bc <<< 2+2
+cd
+echo "falopa"
+echo "falopa" > archivo1.txt
+ls
+cat archivo1.txt 
+echo "chau" >> archivo1.txt 
+cat archivo1.txt 
+echo "goodbye to a world" > archivo1.txt 
+cat archivo1.txt 
+bc <<< 44444444+2
+cat faloasdf
+cat << FIN > archivo2.txt
+Line 1
+Line 2
+Line 3
+FIN
+
+ls
+cat archivo2.txt 
+cat << eof > archivo2.txt 
+Fal
+o
+pa
+eof
+
+ls
+car archivo2.txt 
+cat archivo2.txt 
+clear
+ls
+cat archivo1.txt 
+cat archivo1.txt > archivo2.txt 
+cat archivo2.txt 
+man man
+man |
+ls
+clear
+ls
+cat << eof >> archivo2.txt 
+a
+aa
+aaa
+aaaa
+aaaaa
+aaaaaa
+eof
+
+cat archivo2.txt  | head -n2
+cat archivo2.txt  | tail -n2
+cat archivo2.txt | grep world
+cat archivo2.txt | grep world to
+cat archivo2.txt | grep world | grep to
+cat archivo2.txt | grep world to -n
+cat archivo2.txt | grep -n world to 
+cat archivo2.txt | grep -n world
+cat archivo2.txt | grep -n a
+man grep
+grep -i wo archivo2.txt 
+grep -i proce /proc/cpuinfo
+grep -i -n proce /proc/cpuinfo
+grep -i -n model /proc/cpuinfo
+cat /proc/cpuinfo | grep -i -n model
+cat /proc/cpuinfo | grep -i -n hz
+cat /proc/cpuinfo | grep -i -n model | grep name
+cat /proc/cpuinfo | grep -in model
+cat /proc/cpuinfo | grep -in model | grep name
+history
+man grep
+history
+ls
+cd repogit/
+ls
+cd farias_vagrant/
+ls
+history > historial.txt 
+ls
+cat historial.txt 
+git status
+git commit -m "Probando más comandos."
+git add .
+git status
+git commit -m "Probando más comandos."
+git push
